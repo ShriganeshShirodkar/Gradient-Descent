@@ -1,4 +1,3 @@
-# Gradient-Descent
-Gradient Descent 
-
-### Source: https://www.coursera.org/learn/machine-learning
+## Gradient-Descent
+ 
+Implementing Batch and Stochastic Gradient Descent from scratch for linear and logistic regression.
